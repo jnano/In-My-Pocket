@@ -52,7 +52,7 @@ Oh My ZSH: https://ohmyz.sh
 
 
 
-``` shell
+~~~shell
 # iTerm2 설치
 $ brew cask install iterm2
 
@@ -74,7 +74,7 @@ $ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/the
 # zshell 설정 파일을 열고 테마를 powerlevel9k 으로 변경해 줍니다.
 $ vim ~/.zshrc
 ZSH_THEME="powerlevel9k/powerlevel9k" 
-```
+~~~
 
 
 
