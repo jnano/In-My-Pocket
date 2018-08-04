@@ -52,7 +52,7 @@ Oh My ZSH: https://ohmyz.sh
 
 
 
-~~~zsh
+~~~ console
 # iTerm2 설치
 $ brew cask install iterm2
 
