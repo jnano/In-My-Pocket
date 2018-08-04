@@ -277,7 +277,7 @@ https://pypi.org/project/pip/
 ~~~zsh
 # pip 버전 확인
 $ pip -V
-& pip --version
+$ pip --version
 ~~~
 
 
