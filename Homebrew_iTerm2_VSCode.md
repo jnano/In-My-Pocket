@@ -28,7 +28,7 @@ https://brew.sh/index_ko
 
    PATH를 추가해 주었으면 ```$ source ~/.zshrc``` 실행하여 파일을 갱신해 줍니다.
 
-   > 패키지 설치 후 brew lnk를 먼저 수정하라는 에러가 뜨는 경우 ```$ brew link {package_name}``` 해줍니다. 
+   > 패키지 설치 후 brew link를 먼저 수정하라는 에러가 뜨는 경우 ```$ brew link {package_name}``` 해줍니다. 
 
 
 
