@@ -288,7 +288,7 @@ https://docs.pipenv.org
 
 ~~~zsh
 # pip를 사용해 pipenv를 설치합니다.
-$ brew install pipenv
+$ pip install pipenv
 ~~~
 
 
